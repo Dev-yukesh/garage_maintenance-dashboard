@@ -1,0 +1,57 @@
+  /* Header background and text */
+table.dataTable thead th {
+  background-color: #4e73df !important;  /* SB Admin 2 primary blue */
+  color: #fff !important;
+  font-weight: 600;
+  text-align: center;
+  border-bottom: 2px solid #2e59d9 !important;
+}
+
+/* Pagination buttons */
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+  background-color: #f8f9fc;  /* light gray background */
+  border: 1px solid transparent;
+  color: #4e73df !important;
+  margin: 0 2px;
+  border-radius: 0.35rem;
+  font-weight: 600;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current,
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+  background-color: #4e73df !important;
+  color: white !important;
+  border: 1px solid #4e73df !important;
+  box-shadow: 0 0 10px #4e73df;
+}
+
+/* Info text color */
+.dataTables_wrapper .dataTables_info {
+  color: #858796;
+  font-weight: 500;
+}
+
+/* Length and filter label colors */
+.dataTables_wrapper .dataTables_length label,
+.dataTables_wrapper .dataTables_filter label {
+  color: #6e707e;
+  font-weight: 600;
+}
+
+/* Stripe even rows */
+table.dataTable.stripe tbody tr.odd,
+table.dataTable.display tbody tr.odd {
+  background-color: #f8f9fc;
+}
+
+/* Hover highlight */
+table.dataTable tbody tr:hover {
+  background-color: #dbe4f7 !important;
+}
+
+/* Sorting arrows color */
+table.dataTable thead .sorting:after,
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_desc:after {
+  color: #4e73df !important;
+}

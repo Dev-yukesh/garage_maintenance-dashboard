@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!-- Start Restrict Pages using Firesbase Authentication -->
+<style>html { display: none; }</style> <!-- hide page immediately -->
+<script src="authguard.js" defer></script>
+<!-- End Restrict Pages using Firesbase Authentication -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Skyway Coachlines</title>
+    <!-- Firebase Scripts -->
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link
+        href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
+        rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/sb-admin-2.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this page -->
+    <link href="vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+
+
+    <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+ 
+
+  <!-- Font Awesome for eye icon -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+
+  <style>
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 50px;
+  height: 25px;
+}
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.slider {
+  position: absolute;
+  cursor: pointer;
+  background-color: #ccc;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transition: .4s;
+  border-radius: 34px;
+}
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 19px;
+  width: 19px;
+  left: 3px;
+  bottom: 3px;
+  background-color: white;
+  transition: .4s;
+  border-radius: 50%;
+}
+input:checked + .slider {
+  background-color: #4CAF50;
+}
+input:checked + .slider:before {
+  transform: translateX(24px);
+}
+</style>
+
+</head>
+    
+
+
+
+<body id="page-top">
+
+    <!-- Page Wrapper -->
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+
+            <!-- Sidebar - Brand -->
+            <a class="sidebar-brand d-flex align-items-center justify-content-center">
+                <div class="sidebar-brand-icon rotate-n-15">
+                    <i class="fas fa-laugh-wink"></i>
+                </div>
+                    <div class="sidebar-brand-text mx-3" id="userRoleDisplay">Role</div>
+            </a>
+
+            <!-- Divider -->
+            <hr class="sidebar-divider my-0">
+
+            <!-- Nav Item - Dashboard -->
+            <li class="nav-item">
+                <a class="nav-link" href="LandingPage.html">
+                    <i class="fas fa-fw fa-tachometer-alt"></i>
+                    <span>Dashboard</span></a>
+            </li>
+        
+            <!-- Divider -->
+            <hr class="sidebar-divider">
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="allDefectsc.html">
+                    <i class="fas fa-chalkboard-teacher"></i> <!-- Good for teaching/lesson -->
+
+                    <span>All Defects</span></a>
+            </li>
+<!-- Divider -->
+            <hr class="sidebar-divider">
+             <li class="nav-item active">
+                <a class="nav-link" href="dayPlanner.html">
+                    <i class="fas fa-chalkboard-teacher"></i> <!-- Good for teaching/lesson -->
+
+                    <span>Day Planner </span></a>
+            </li>
+ <hr class="sidebar-divider">
+       <li class="nav-item">
+  <a class="nav-link" href="completedRepair.html">
+    <i class="fas fa-check-circle"></i> <!-- Icon suitable for completed work -->
+    <span>Completed Repair</span>
+  </a>
+</li>
+ <hr class="sidebar-divider" >
+
+ <li class="nav-item active" id="whiteboardMenuItem" style="display: block;">
+  <a class="nav-link" href="whiteboard.html">
+    <i class="fas fa-chalkboard"></i> <!-- Icon representing a whiteboard -->
+    <span>Whiteboard</span>
+  </a>
+ <hr class="sidebar-divider">
+
+                       
+                      <li class="nav-item active" id="partsInventoryMenuItem">
+  <a class="nav-link" href="partsInventory.html">
+    <i class="fas fa-boxes"></i> <!-- Appropriate icon for inventory/parts -->
+    <span>Parts Inventory</span>
+  </a>
+</li>
+ <hr class="sidebar-divider">
+             <li class="nav-item active">
+                <a class="nav-link" href="userManagement.html">
+                    <i class="fas fa-users"></i> <!-- Good for teaching/lesson -->
+
+                    <span>User Management    </span></a>
+            </li>
+
+            <!-- Divider -->
+            <hr class="sidebar-divider">
+
+            <!-- Sidebar Toggler (Sidebar) -->
+            <div class="text-center d-none d-md-inline">
+                <button class="rounded-circle border-0" id="sidebarToggle"></button>
+            </div>
+
+        </ul>
+        <!-- End of Sidebar -->
+
+        <!-- Content Wrapper -->
+        <div id="content-wrapper" class="d-flex flex-column">
+
+            <!-- Main Content -->
+            <div id="content">
+
+                <!-- Topbar -->
+                <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
+
+                   
+
+
+                    <!-- Topbar Navbar -->
+                    <ul class="navbar-nav ml-auto">
+
+                      
+                       
+
+                       
+
+
+                        <!-- Nav Item - User Information -->
+                        <li class="nav-item dropdown no-arrow">
+                            <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      <span class="mr-2 d-none d-lg-inline text-gray-600 small" id="userFirstName">Douglas McGee</span>
+
+                                <img class="img-profile rounded-circle"
+                                    src="img/undraw_profile.svg">
+                            </a>
+                            <!-- Dropdown - User Information -->
+                            <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
+                                aria-labelledby="userDropdown">
+                               
+                               
+                               
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">
+                                    <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
+                                    Logout
+                                </a>
+                            </div>
+                        </li>
+
+                    </ul>
+
+                </nav>
+                <!-- End of Topbar -->
+
+                <!-- Begin Page Content -->
+                <div class="container-fluid">
+
+              
+               
+
+                    <!---------------------------------------------------- -->
+                <!-- User Management Section -->
+<div class="card shadow mb-4">
+    <div class="card-header py-3 d-flex justify-content-between align-items-center">
+        <h6 class="m-0 font-weight-bold text-primary">User Management</h6>
+    </div>
+    <div class="card-body">
+
+        <!-- User Creation Form -->
+        <form id="userForm">
+            <div class="form-row">
+                <div class="form-group col-md-3">
+                    <label for="userName">Full Name</label>
+                    <input type="text" class="form-control" id="userName" placeholder="Enter full name" required>
+                </div>
+                <div class="form-group col-md-3">
+                    <label for="userEmail">Email</label>
+                    <input type="email" class="form-control" id="userEmail" placeholder="Enter email" required>
+                </div>
+              <div class="form-group col-md-3">
+    <label for="userPassword">Password</label>
+    <div class="input-group">
+        <input type="password" class="form-control" id="userPassword" placeholder="Enter password" required>
+        <div class="input-group-append">
+            <span class="input-group-text" style="cursor: pointer;" id="togglePassword">
+                <i class="fas fa-eye" id="eyeIcon"></i>
+            </span>
+        </div>
+    </div>
+</div>
+                <div class="form-group col-md-3">
+                    <label for="userRole">Role</label>
+                    <select class="form-control" id="userRole">
+                        <option value="Mentor">Admin</option>
+                        <option value="Mechanic">Mechanic</option>
+                        <option value="Supervisor">Supervisor</option>
+                    </select>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Create User</button>
+        </form>
+
+        <hr>
+
+        <!-- User List Table -->
+        <div class="table-responsive mt-4">
+            <table class="table table-bordered" id="userTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Role</th>
+                        <th>Password</th>
+                        <th>Date Created</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+              <tbody id="user_management-table-body">
+                    <!-- Users will be populated via JavaScript -->
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</div>
+
+          <!---------------------------------------------------- -->
+                </div>
+                <!-- /.container-fluid -->
+
+            </div>
+            <!-- End of Main Content -->
+
+            <!-- Footer -->
+            <footer class="sticky-footer bg-white">
+                <div class="container my-auto">
+                    <div class="copyright text-center my-auto">
+              <span>Copyright &copy; Skyway Coachlines 2025</span>
+                    </div>
+                </div>
+            </footer>
+            <!-- End of Footer -->
+
+        </div>
+        <!-- End of Content Wrapper -->
+
+    </div>
+    <!-- End of Page Wrapper -->
+
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded" href="#page-top">
+        <i class="fas fa-angle-up"></i>
+    </a>
+
+    <!-- Logout Modal-->
+    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+                    <a class="btn btn-primary" href="index.html">Logout</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript-->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Core plugin JavaScript-->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for all pages-->
+    <script src="js/sb-admin-2.min.js"></script>
+
+    <!-- Page level plugins -->
+    <script src="vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+    <!-- Page level custom scripts -->
+    <script src="js/demo/datatables-demo.js"></script>
+    <!-- jQuery (required before DataTables) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- DataTables JS -->
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+<!-- Firebase SDKs -->
+  <!-- Your Firebase config & initialization -->
+  <script src="firebase-config.js"></script>
+
+  <!-- Your custom user management JS -->
+  <script src="userManagement.js"></script>
+
+</body>
+
+</html>

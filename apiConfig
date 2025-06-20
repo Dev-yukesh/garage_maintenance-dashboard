@@ -1,0 +1,2 @@
+// config.js
+const BASE_API_URL = "https://script.google.com/macros/s/AKfycbyMwK3SZKqbDJKeF-3CUrZTKwAKP4avl1J-yqbWkWGgbx-xyMGkGjCl1XlTIm9oqt5Iaw/exec";

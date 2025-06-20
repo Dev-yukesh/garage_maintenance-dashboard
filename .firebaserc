@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "garage-works-maintenance",
+    "staging": "garage-works-maintenance"
+  },
+  "targets": {},
+  "etags": {}
+}

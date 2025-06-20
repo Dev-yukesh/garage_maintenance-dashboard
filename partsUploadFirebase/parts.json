@@ -1,0 +1,3242 @@
+[
+    {
+        "Cate": "Brake",
+        "Part number ": "640018",
+        "Description": " VALVE ATR-6, RELAY AND ATC COMBINED",
+        "Parts Location": "3A1",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "640228",
+        "Description": "modulator ABS",
+        "Parts Location": "3B2",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "642119",
+        "Description": "SR-7 Spring, Brake Modul Relay Valve",
+        "Parts Location": "3D3",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "640136",
+        "Description": "VALVE TAG LIFT",
+        "Parts Location": "3B4",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "640096",
+        "Description": "Sensor, Abs 90 deg",
+        "Parts Location": "3B5",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "640099",
+        "Description": "Sensor, ABS",
+        "Parts Location": "3B6",
+        "PARTS ON HAND": "6",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "610072",
+        "Description": "Brake pads",
+        "Parts Location": "3B1",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "641274",
+        "Description": "Norgren Valve 3 way",
+        "Parts Location": "3B2",
+        "PARTS ON HAND": "7",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "641531",
+        "Description": "Valve, 5-way 3-pos",
+        "Parts Location": "3B3",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "621623",
+        "Description": "Drive seal",
+        "Parts Location": "3C1",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "621640",
+        "Description": "8 Hole Gasket",
+        "Parts Location": "3C",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "621628",
+        "Description": "Rotor Bolts HEX 5/8",
+        "Parts Location": "2E1",
+        "PARTS ON HAND": "59",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "5001529",
+        "Description": "Hex screw",
+        "Parts Location": "2E2",
+        "PARTS ON HAND": "18",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "611359",
+        "Description": "Rotor tag",
+        "Parts Location": "30B1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "611457",
+        "Description": " Rotor Drive",
+        "Parts Location": "30B2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "21243502",
+        "Description": "Pressure Reducing RV-3 VOLVO",
+        "Parts Location": "3D2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "22877306",
+        "Description": "Separator",
+        "Parts Location": "3D5",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "640071",
+        "Description": "CALIPER/PAD ASM, FRT/TAG AX RH",
+        "Parts Location": "30B3",
+        "PARTS ON HAND": "0",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "640076",
+        "Description": "CALIPER/PAD ASM, FRT/TAG AX LH",
+        "Parts Location": "30B4",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "621730",
+        "Description": "Stud 5/8",
+        "Parts Location": "2E3",
+        "PARTS ON HAND": "35",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "500723",
+        "Description": " Nut Hex",
+        "Parts Location": "2E4",
+        "PARTS ON HAND": "85",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "641991",
+        "Description": "Steering brake valve",
+        "Parts Location": "3D1",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "24075971",
+        "Description": "Wheel stud",
+        "Parts Location": "2E5",
+        "PARTS ON HAND": "29",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "20434082",
+        "Description": "NUT",
+        "Parts Location": "2D1",
+        "PARTS ON HAND": "12",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "620028",
+        "Description": "Wheel Stud M22 Drive",
+        "Parts Location": "2D2",
+        "PARTS ON HAND": "46",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "621627",
+        "Description": "Dowse4l 5/8",
+        "Parts Location": "2D3",
+        "PARTS ON HAND": "41",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "611207",
+        "Description": "Front Stud CPM 22MM",
+        "Parts Location": "2C4",
+        "PARTS ON HAND": "25",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "19511258",
+        "Description": "U Joint X",
+        "Parts Location": "3B4",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "621652",
+        "Description": "Outer bearing Drive",
+        "Parts Location": "3C2 BH",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "621653",
+        "Description": "Inner Bearing Drive",
+        "Parts Location": "3C2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "641925",
+        "Description": "Brake E10P Valve",
+        "Parts Location": "3C3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "640964",
+        "Description": "Govenor",
+        "Parts Location": "3C4",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "641137",
+        "Description": "VALVE, PR-4 PRESS. Protection",
+        "Parts Location": "3B5",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "641527",
+        "Description": "Valve 4 ways",
+        "Parts Location": "3B3 BH",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "640471",
+        "Description": "Valve Inversion",
+        "Parts Location": "3B5BH",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "640044",
+        "Description": "Brake chamber X drive",
+        "Parts Location": "3C5",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Brake",
+        "Part number ": "640023",
+        "Description": "VALVE, RELAY HORIZONTAL R-14",
+        "Parts Location": "3C6",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "5001252",
+        "Description": "NUT HEX STOL N500 M20-2",
+        "Parts Location": "2F1",
+        "PARTS ON HAND": "29",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "131424",
+        "Description": "Pin Shock absorber",
+        "Parts Location": "2F2",
+        "PARTS ON HAND": "11",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "506678",
+        "Description": "Bushing polyuretane re",
+        "Parts Location": "2F3",
+        "PARTS ON HAND": "33",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "630021",
+        "Description": "Radius Rod Bushing",
+        "Parts Location": "2F4",
+        "PARTS ON HAND": "24",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "641425",
+        "Description": " Chamber, BrakeTag lift",
+        "Parts Location": "5C2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "630020",
+        "Description": "Bushing torsion bar",
+        "Parts Location": "2F5",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "950409",
+        "Description": "Seal, lip shaft",
+        "Parts Location": "10A1",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "562167",
+        "Description": "Motor 24V",
+        "Parts Location": "10A4",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "870844",
+        "Description": "Lavatory fan",
+        "Parts Location": "10A3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "950332",
+        "Description": "Filter Dryer",
+        "Parts Location": "10B1",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "950261",
+        "Description": "Receiver tank",
+        "Parts Location": "10C3",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "950095",
+        "Description": "Unloader",
+        "Parts Location": "10D4",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "871414",
+        "Description": "Pump sealless",
+        "Parts Location": "10C2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "874297",
+        "Description": "15 GPM WATER BOOST PUMP",
+        "Parts Location": "10C2 BH",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "680801",
+        "Description": "Oil bitzer compressor",
+        "Parts Location": "10B2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "950408",
+        "Description": "HUB ASSY, W/GROVE",
+        "Parts Location": "10A2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "950498",
+        "Description": "Hight pressure switch",
+        "Parts Location": "10B3",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "565881",
+        "Description": "Condensor Fan",
+        "Parts Location": "10E1",
+        "PARTS ON HAND": "6",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "459228",
+        "Description": "Service Kit clutch",
+        "Parts Location": "10C4990",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "950096",
+        "Description": "AC COIL",
+        "Parts Location": "10A1 BH",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "950956",
+        "Description": " DISCHARGE SHUT-OFF VALVE",
+        "Parts Location": "10B4",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "950265",
+        "Description": "Suction Valve",
+        "Parts Location": "10C1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "871383",
+        "Description": "  Air filter",
+        "Parts Location": "15A1",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "950603",
+        "Description": "Clutch Assembly 2018 prevost",
+        "Parts Location": "10B6",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "950156",
+        "Description": "Ac compressor clutch",
+        "Parts Location": "10B4 BH",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "871157",
+        "Description": "Blower Assy overhead",
+        "Parts Location": "10D1",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "950521",
+        "Description": "Valve Magnetique",
+        "Parts Location": "10B5",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Hvac",
+        "Part number ": "871359",
+        "Description": "Blower Ass. W/motor",
+        "Parts Location": "10E2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Belts",
+        "Part number ": "572147",
+        "Description": "Transmission dip stick",
+        "Parts Location": "12A1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Belts",
+        "Part number ": "5060121",
+        "Description": "AC Belt Double b",
+        "Parts Location": "11B1",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Belts",
+        "Part number ": "506029",
+        "Description": "Belt Poly V 14pk",
+        "Parts Location": "11B2",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Belts",
+        "Part number ": "5060110",
+        "Description": "BELT POLY V 10PK1512",
+        "Parts Location": "11B3",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Belts",
+        "Part number ": "5060145",
+        "Description": "belt 1539 altenator",
+        "Parts Location": "11A3",
+        "PARTS ON HAND": "7",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Belts",
+        "Part number ": "21060426",
+        "Description": "V Clamp",
+        "Parts Location": "13A1",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Belts",
+        "Part number ": "o70101",
+        "Description": "Hose 1050MM",
+        "Parts Location": "15A1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Belts",
+        "Part number ": "5060134",
+        "Description": "BELT BX71, SET OF 2",
+        "Parts Location": "11A6",
+        "PARTS ON HAND": "9",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Belts",
+        "Part number ": "5060118",
+        "Description": "Belt Poly 2213MM",
+        "Parts Location": "11A8",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "404226",
+        "Description": "Micro Jack 12 Inches",
+        "Parts Location": "1C1",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "O64362",
+        "Description": " TOGGLE SWITCH WATERPROOF",
+        "Parts Location": "1D3",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "862986",
+        "Description": "Wheelchair Remote",
+        "Parts Location": "2C1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "564174",
+        "Description": "Fuse Amg 150A",
+        "Parts Location": "1C7",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "564520",
+        "Description": "Fuse Amg 300A",
+        "Parts Location": "1C7",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "562699",
+        "Description": "Switch, NGR eaton",
+        "Parts Location": "1C5",
+        "PARTS ON HAND": "8",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "871323",
+        "Description": "Brush",
+        "Parts Location": "1C6",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "565147",
+        "Description": "SWITCHABLE BREAKER, 90 A",
+        "Parts Location": "1C3",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "565146",
+        "Description": "CB6 Breaker",
+        "Parts Location": "1C3",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "565137",
+        "Description": "BREAKER 90 AMP MAN",
+        "Parts Location": "1C5",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "564984",
+        "Description": "Sound Selector",
+        "Parts Location": "9D5",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "900808",
+        "Description": "Microphone",
+        "Parts Location": "1D6",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "562740",
+        "Description": "Driver window cap",
+        "Parts Location": "1C5",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "562364",
+        "Description": "Master battery relay",
+        "Parts Location": "1C2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "563332",
+        "Description": "Mini Relay 24v with resistor",
+        "Parts Location": "1C3",
+        "PARTS ON HAND": "7",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "565136",
+        "Description": "BREAKER 70 AMP MAN",
+        "Parts Location": "1C3",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "790663",
+        "Description": "Release Handle Assembly",
+        "Parts Location": "1I5",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "300506",
+        "Description": " Motor, Wiper",
+        "Parts Location": "9D1",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "900960",
+        "Description": "PUMP, LAVATORY FLUSH 24 V",
+        "Parts Location": "9D2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "870236",
+        "Description": "HVAC, CONTROL MODULE, FULL",
+        "Parts Location": "9D3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "560699",
+        "Description": " Equalizer 100 amps",
+        "Parts Location": "9D4",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "930418",
+        "Description": "Lamp Clear Red",
+        "Parts Location": "1F6",
+        "PARTS ON HAND": "20",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Electrical",
+        "Part number ": "661075",
+        "Description": "Switch assembly multiswitch",
+        "Parts Location": "1C4",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "21992993",
+        "Description": "SYNCHRONIZER RING",
+        "Parts Location": "3A1",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "29534362",
+        "Description": "Plug assembly",
+        "Parts Location": "1B1",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "571695",
+        "Description": "Plug assembly",
+        "Parts Location": "1B1",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "563047",
+        "Description": "Entrace door switch",
+        "Parts Location": "1B1",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "864425",
+        "Description": "Shackle",
+        "Parts Location": "2G8",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "562725",
+        "Description": "Cap, Set NGR534432",
+        "Parts Location": "1B1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "286553",
+        "Description": "Entrance door locking",
+        "Parts Location": "1B1",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "288807",
+        "Description": "Lock plate",
+        "Parts Location": "1B1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "780887",
+        "Description": "Retainer Clip, GM Door",
+        "Parts Location": "1B1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "2801055",
+        "Description": "Catch pin black",
+        "Parts Location": "1D7",
+        "PARTS ON HAND": "11",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "900745",
+        "Description": "Microphone",
+        "Parts Location": "2A2",
+        "PARTS ON HAND": "8",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "550840",
+        "Description": "Airbag 4\" Dia",
+        "Parts Location": "1I2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "630229",
+        "Description": "Link ASM 344mm",
+        "Parts Location": "1B1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "21434720",
+        "Description": "Connecting Pipe",
+        "Parts Location": "1D7",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "864431",
+        "Description": "COVER, TUBE END/KIT",
+        "Parts Location": "1B2",
+        "PARTS ON HAND": "30",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "477399",
+        "Description": "Receptacle",
+        "Parts Location": "1B1",
+        "PARTS ON HAND": "25",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "5001150",
+        "Description": "Spacer",
+        "Parts Location": "1D5",
+        "PARTS ON HAND": "20",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "289071",
+        "Description": "Pivot Door lock",
+        "Parts Location": "1B6",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "5001762",
+        "Description": "Nut",
+        "Parts Location": "1D5",
+        "PARTS ON HAND": "50",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "5001671",
+        "Description": "SCR CAP HEX G500 M1",
+        "Parts Location": "1D5",
+        "PARTS ON HAND": "20",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "5001672",
+        "Description": "ScR G500 M1",
+        "Parts Location": "1D5",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "507647",
+        "Description": "M26",
+        "Parts Location": "1B6",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "642080",
+        "Description": "FP ST4  1/8 PF",
+        "Parts Location": "1B6",
+        "PARTS ON HAND": "9",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "o53022",
+        "Description": "Guide busing",
+        "Parts Location": "1B6",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "289068",
+        "Description": "Guide welded",
+        "Parts Location": "1B6",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "507647",
+        "Description": "ST M26",
+        "Parts Location": "1B6",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "22443498",
+        "Description": "Pressure transducer",
+        "Parts Location": "1B6",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "20562668",
+        "Description": "Plug",
+        "Parts Location": "1B6",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "G71487",
+        "Description": "Bracket Dipstick",
+        "Parts Location": "1B6",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "",
+        "Description": "",
+        "Parts Location": "",
+        "PARTS ON HAND": "",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "5001763",
+        "Description": "Screw Hex n500",
+        "Parts Location": "1D5",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "2800310",
+        "Description": "Hook X Luggage door",
+        "Parts Location": "1H3",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "472830",
+        "Description": "Spring holder",
+        "Parts Location": "1B1",
+        "PARTS ON HAND": "15",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "20807510",
+        "Description": "OIL FILL CAP VOLVO",
+        "Parts Location": "1B2",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "282383",
+        "Description": "Blot lock, door",
+        "Parts Location": "1B2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "641983",
+        "Description": " Cylinder 7/8",
+        "Parts Location": "1B2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "5001914",
+        "Description": "ac tensioner Bolt",
+        "Parts Location": "1D5",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "505064",
+        "Description": "Round pin chain shackle",
+        "Parts Location": "2I4",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "563464",
+        "Description": "Switch Door Jamb",
+        "Parts Location": "1C7",
+        "PARTS ON HAND": "18",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "500847",
+        "Description": " Nut",
+        "Parts Location": "1D5",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "564398",
+        "Description": "STARTER RELAIS MELCO, VO",
+        "Parts Location": "1B8",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "901445",
+        "Description": "  Guide Support",
+        "Parts Location": "1B7",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "900476",
+        "Description": "  Bracket sun shade",
+        "Parts Location": "1B7",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "977650",
+        "Description": "Hose assembly M12",
+        "Parts Location": "1I4",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "501023",
+        "Description": " DRAIN 1/4NPT M",
+        "Parts Location": "1B7",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "504541",
+        "Description": " Clip 1/4 Rod RH",
+        "Parts Location": "1D4",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "287534",
+        "Description": "ROD, WCL Door Latch",
+        "Parts Location": "1D8",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "287535",
+        "Description": "Rod, WCL Door Latch",
+        "Parts Location": "1D8",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "641216",
+        "Description": "Clevis",
+        "Parts Location": "1D8",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "o40004",
+        "Description": "Muffler Plug",
+        "Parts Location": "1H3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "501338",
+        "Description": "TEE 1/4PM x 1/4PF x 1/4P",
+        "Parts Location": "1B7",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "289302",
+        "Description": "LATCH RH REWORK",
+        "Parts Location": "1B2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "283491",
+        "Description": "LATCH, LH.",
+        "Parts Location": "1B2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "780778",
+        "Description": "Latch, Left",
+        "Parts Location": "1B2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "280011",
+        "Description": "LOCK COVER H",
+        "Parts Location": "1B2",
+        "PARTS ON HAND": "7",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "630146",
+        "Description": "Arm Stabalizing Bar",
+        "Parts Location": "5B4 BH",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "562518",
+        "Description": "pressure switch",
+        "Parts Location": "1B2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "287620",
+        "Description": "HINGE TOP LH XL2",
+        "Parts Location": "1B3",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "550930",
+        "Description": "Plate Reinforcement",
+        "Parts Location": "1B3",
+        "PARTS ON HAND": "6",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "405295",
+        "Description": "Lavatory Handle suppor",
+        "Parts Location": "1B3",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "563097",
+        "Description": "Micro switch",
+        "Parts Location": "1B3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "504280",
+        "Description": "Cap septic tank",
+        "Parts Location": "US 18B1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "173481",
+        "Description": " Bracket air tank",
+        "Parts Location": "US 18B1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "289644",
+        "Description": " angle support",
+        "Parts Location": "US 18B1",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "289730",
+        "Description": "ACTUATOR DOOR LATCH",
+        "Parts Location": "US 18B1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "289727",
+        "Description": "SUPPORT CATCH PIN PIVOT",
+        "Parts Location": "US 18B1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "288006",
+        "Description": " support door rad",
+        "Parts Location": "US 18B1",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "409989",
+        "Description": "PLUG RUBBER",
+        "Parts Location": "US 18B1",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "280169",
+        "Description": " Handle sliding door",
+        "Parts Location": "US 18B1",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "20526428",
+        "Description": " SEALING RING",
+        "Parts Location": "1B4",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "144848",
+        "Description": " Wettank",
+        "Parts Location": "US 16B1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "21517180",
+        "Description": "",
+        "Parts Location": "US 15C1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "85124607",
+        "Description": "",
+        "Parts Location": "US 16C1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "21401835",
+        "Description": "Diffuser Pipe Exhaust",
+        "Parts Location": "US 16C2 BH",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "430630",
+        "Description": "Led Seal",
+        "Parts Location": "1D4",
+        "PARTS ON HAND": "10",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "504677",
+        "Description": "Slide track 8\"",
+        "Parts Location": "1B5",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "503011",
+        "Description": "HOSE, RUBBER 3MM ID",
+        "Parts Location": "1B5",
+        "PARTS ON HAND": "20",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "70307176",
+        "Description": " PURGE TANK",
+        "Parts Location": "US 17B1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "131961",
+        "Description": "Gage plate for M16",
+        "Parts Location": "1H7",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "22877306",
+        "Description": " Separator",
+        "Parts Location": "US 17B2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "150134",
+        "Description": "",
+        "Parts Location": "US 17B3",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "900043",
+        "Description": "Blind Electric windshild",
+        "Parts Location": "US 16B2 BH",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "403715",
+        "Description": "Pipe, Toilet Drain",
+        "Parts Location": "US 17C1",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "CL1220",
+        "Description": "DEF CLAMP",
+        "Parts Location": "US 20C2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "B29N",
+        "Description": "FOG LIGHT",
+        "Parts Location": "US 20C1",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "PREVMIRR",
+        "Description": "MIRROR",
+        "Parts Location": "US 20B",
+        "PARTS ON HAND": "12",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "O53064",
+        "Description": "WATER PIPE ENGINE ",
+        "Parts Location": "US 17C2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "21910818",
+        "Description": "Tube",
+        "Parts Location": "US 17C3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "BOX1",
+        "Description": "MULTIPLE PARTS",
+        "Parts Location": "US 18B1",
+        "PARTS ON HAND": "",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "21576178",
+        "Description": "  Def unit",
+        "Parts Location": "US 18B2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "642057",
+        "Description": "BRAKE CHAMBER TYPE 24/24",
+        "Parts Location": "US 18C1",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "642058",
+        "Description": "BRAKE CHAMBER TYPE 24/24",
+        "Parts Location": "US 18C2",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "2810562",
+        "Description": " Hinge Door",
+        "Parts Location": "US 19B1",
+        "PARTS ON HAND": "6",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "300645",
+        "Description": "Adaptor M10",
+        "Parts Location": "1D1",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "173155P ",
+        "Description": "SUPPORT LH, TAG AXLE",
+        "Parts Location": "US 19B2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "507544",
+        "Description": "90 12JM",
+        "Parts Location": "1G4",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "410748",
+        "Description": "BUMPER CORNER BLACK SS",
+        "Parts Location": "US 19B3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "621838",
+        "Description": "",
+        "Parts Location": "US 19C1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "621403",
+        "Description": " Yoke Assem",
+        "Parts Location": "US 19C1 BH",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "504691",
+        "Description": "Ring RET EXT",
+        "Parts Location": "1B4",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "85153430",
+        "Description": "EGR VALVE, REPLACEMENT",
+        "Parts Location": "US 19C2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "5000356",
+        "Description": " SCREW CAP HEX M8X40",
+        "Parts Location": "1H7",
+        "PARTS ON HAND": "24",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "630280",
+        "Description": "Air Bag",
+        "Parts Location": "US 23C2",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "282289",
+        "Description": "Ford lock new",
+        "Parts Location": "2G3",
+        "PARTS ON HAND": "26",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "510798",
+        "Description": "Dust cap",
+        "Parts Location": "2G4",
+        "PARTS ON HAND": "8",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "504243",
+        "Description": "Clip 1/4 ROD LH",
+        "Parts Location": "1D4",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "5001671",
+        "Description": "Screw cap hex M1",
+        "Parts Location": "2J5",
+        "PARTS ON HAND": "20",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "550924",
+        "Description": " Protector cap pulley",
+        "Parts Location": "2G5",
+        "PARTS ON HAND": "15",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "230286",
+        "Description": "Air Bag Tag",
+        "Parts Location": "US 22C1",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "630260",
+        "Description": "630260 - X Air bag Drive",
+        "Parts Location": "US 22C2",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "630285",
+        "Description": "H ModelAir Bag 2018 steering",
+        "Parts Location": "US 24C2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "630258",
+        "Description": "Air Bag Tag/Steering",
+        "Parts Location": "US 24C1",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "630162",
+        "Description": "AIR SPRING 12IN. WITH",
+        "Parts Location": "US 23C1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "130615",
+        "Description": " ROd assembly 26 1/2\"",
+        "Parts Location": "US 21B",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "950492",
+        "Description": "HOSE ASSY",
+        "Parts Location": "US 221BH",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "950442",
+        "Description": "Hose",
+        "Parts Location": "US 221BH",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "507366",
+        "Description": "O ring Seal oil",
+        "Parts Location": "1D4",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "507369",
+        "Description": "Seal Wiper",
+        "Parts Location": "1D4",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "642080",
+        "Description": "FP ST #4 * 1/8 PF",
+        "Parts Location": "1D4",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "145061",
+        "Description": " Hose",
+        "Parts Location": "US 221BH",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "142335",
+        "Description": " Hose 960mm",
+        "Parts Location": "US 221BH",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "630148",
+        "Description": "arm stabalizer bar",
+        "Parts Location": "US 211BH",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "641908",
+        "Description": "BRAKE HOSE ASSY #8 X 51\"",
+        "Parts Location": "US 211BH",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "642181",
+        "Description": "Hose, Air spring 28\"",
+        "Parts Location": "US 17C5",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "O33195 ",
+        "Description": "Hose flexible 470MM LG",
+        "Parts Location": "US22B1",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "682176",
+        "Description": "Sika Flex",
+        "Parts Location": "2A1",
+        "PARTS ON HAND": "10",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "O30096",
+        "Description": " Hose charger air",
+        "Parts Location": "US 22 B2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "22777560",
+        "Description": "Valve cover gasket",
+        "Parts Location": "US 19C3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "374611",
+        "Description": "  Handle evaporator filt",
+        "Parts Location": "US 19C3 BH",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "374612",
+        "Description": "  Handle evaporator filt",
+        "Parts Location": "US 19C3 BH",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "287190",
+        "Description": "CAM LUGG DOOR R",
+        "Parts Location": "US 18B1",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "531419",
+        "Description": " Fuel gasket",
+        "Parts Location": "US 16B3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "21095721",
+        "Description": "Gasket Exhaust pipe",
+        "Parts Location": "13B1",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "",
+        "Description": "",
+        "Parts Location": "",
+        "PARTS ON HAND": "",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "288526",
+        "Description": "CAM LUGG. DOOR X LEFT AS",
+        "Parts Location": "US 18B1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "411120",
+        "Description": "Front bumper latch",
+        "Parts Location": "US 18B1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "287415",
+        "Description": " Door support",
+        "Parts Location": "US 18B1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "630229",
+        "Description": " Link ASM 344mm",
+        "Parts Location": "US 16B3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "930360",
+        "Description": "Headlamp low",
+        "Parts Location": "US 16B3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "930359",
+        "Description": "HEADLAMP (HIGH)",
+        "Parts Location": "US 16B3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "430572",
+        "Description": "",
+        "Parts Location": "US 16B3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "430576",
+        "Description": "LAMP HOLDER",
+        "Parts Location": "US 16B3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "21185073",
+        "Description": "PLATE, ANTIVIBRATION",
+        "Parts Location": "US 16B3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Mix",
+        "Part number ": "BOX2",
+        "Description": "MULTIPLE PARTS",
+        "Parts Location": "US 16B3",
+        "PARTS ON HAND": "",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "7775270",
+        "Description": " VOLVO STARTER 24V",
+        "Parts Location": "3A2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "21613426",
+        "Description": "Thermostat",
+        "Parts Location": "4A4",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "621871",
+        "Description": "Breather tube",
+        "Parts Location": "4C5 BH",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "564683",
+        "Description": "ALT HD10PLBH 28V-150AMP  W/O PULLEY",
+        "Parts Location": "3A3",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "510991",
+        "Description": "Altenator Tensioner",
+        "Parts Location": "4B1",
+        "PARTS ON HAND": "11",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "550925",
+        "Description": "Belt Tensioner",
+        "Parts Location": "4B2",
+        "PARTS ON HAND": "13",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "22719941",
+        "Description": " waterpump hub",
+        "Parts Location": "4B3",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "510970",
+        "Description": "Idler pulley ass",
+        "Parts Location": "4B4",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "457505",
+        "Description": " Pulley",
+        "Parts Location": "4B5",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "454500",
+        "Description": "Plulley",
+        "Parts Location": "4D3",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "550923",
+        "Description": "Pulley Idler PK14",
+        "Parts Location": "4B6",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "20582550",
+        "Description": "Idler pulley/bracket",
+        "Parts Location": "4C1",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "?",
+        "Description": "?",
+        "Parts Location": "4C2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "507014",
+        "Description": "BEARING 20 X 52 X 22.2",
+        "Parts Location": "4C3",
+        "PARTS ON HAND": "28",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "?",
+        "Description": "?",
+        "Parts Location": "4C4",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "450094",
+        "Description": "Pulley Idler Assy",
+        "Parts Location": "4C5",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "564190",
+        "Description": "",
+        "Parts Location": "4D1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "O50027",
+        "Description": "PULLEY ASSY FAN DRIVE",
+        "Parts Location": "4C6",
+        "PARTS ON HAND": "8",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "20582562",
+        "Description": "Pulley coolant pump",
+        "Parts Location": "4D2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "8149875",
+        "Description": "waterpump pulley",
+        "Parts Location": "4D2 BH",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "621424",
+        "Description": "Diff Seal",
+        "Parts Location": "4A1 BH",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "950141",
+        "Description": "bearing, housing",
+        "Parts Location": "4C7",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "21956685",
+        "Description": "Fuel Pipe",
+        "Parts Location": "1I3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "572050",
+        "Description": " Transmission Filter",
+        "Parts Location": "6A1",
+        "PARTS ON HAND": "6",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "21937327",
+        "Description": " Coolant Filter",
+        "Parts Location": "6A2",
+        "PARTS ON HAND": "8",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "UF101 ",
+        "Description": "DEF filter 2018",
+        "Parts Location": "6A3",
+        "PARTS ON HAND": "6",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "660062",
+        "Description": " Power steering filter",
+        "Parts Location": "6A4",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "FS19727",
+        "Description": " Temsa Fuel/water sep",
+        "Parts Location": "6A5",
+        "PARTS ON HAND": "11",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "21380475",
+        "Description": "Fuel Filter",
+        "Parts Location": "6A6",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "21707132",
+        "Description": "Oil Filter By pass",
+        "Parts Location": "6B1",
+        "PARTS ON HAND": "10",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "O12551",
+        "Description": "CLAMP, ID=51MM",
+        "Parts Location": "1I3",
+        "PARTS ON HAND": "6",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "23044511",
+        "Description": " fuel filter",
+        "Parts Location": "6B2",
+        "PARTS ON HAND": "23",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "23920469",
+        "Description": "  Fuel filters",
+        "Parts Location": "6B3",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Engine",
+        "Part number ": "23658092",
+        "Description": " OIL Filter",
+        "Parts Location": "6B4",
+        "PARTS ON HAND": "10",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "160835",
+        "Description": "DAMPER SHOCK ASS",
+        "Parts Location": "5A1",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "630294",
+        "Description": "Drive Shocks",
+        "Parts Location": "5D2",
+        "PARTS ON HAND": "8",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "121358",
+        "Description": "ROD Radius ASSY",
+        "Parts Location": "5D1",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "630288",
+        "Description": "Shocks Steering",
+        "Parts Location": "5A2",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "630295",
+        "Description": "Shock tag axle",
+        "Parts Location": "5B1",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "660979",
+        "Description": "steering Damper",
+        "Parts Location": "5B2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "630253",
+        "Description": "SHOCK ABSORBER WITH BUSHINGS",
+        "Parts Location": "5B3",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "611162",
+        "Description": "King Pin Kit",
+        "Parts Location": "5C1",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "630156",
+        "Description": "Levelling valve",
+        "Parts Location": "2G1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Suspension",
+        "Part number ": "630250",
+        "Description": "Stud, 1/4-20x1 ",
+        "Parts Location": "2G2",
+        "PARTS ON HAND": "6",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Lights",
+        "Part number ": "47162",
+        "Description": "LED Marker Red",
+        "Parts Location": "1E1",
+        "PARTS ON HAND": "25",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Lights",
+        "Part number ": "47163",
+        "Description": "LED Marker Amber",
+        "Parts Location": "1E4",
+        "PARTS ON HAND": "16",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Lights",
+        "Part number ": "53553",
+        "Description": "Yellow LED",
+        "Parts Location": "1E6",
+        "PARTS ON HAND": "14",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Lights",
+        "Part number ": "930366",
+        "Description": "lamp 6 Led Rear Brake",
+        "Parts Location": "1E8",
+        "PARTS ON HAND": "11",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Lights",
+        "Part number ": "930364",
+        "Description": " Lamp 60 Led front flasher",
+        "Parts Location": "1F1",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Lights",
+        "Part number ": "930330",
+        "Description": " Rear lamp red",
+        "Parts Location": "1F2",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Lights",
+        "Part number ": "930208",
+        "Description": "Grommet license",
+        "Parts Location": "1F3",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Lights",
+        "Part number ": "930368",
+        "Description": "LAMP LICENCE LED",
+        "Parts Location": "1F3",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Lights",
+        "Part number ": "830197",
+        "Description": "LAMP, STEPWELL",
+        "Parts Location": "1F4",
+        "PARTS ON HAND": "6",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Lights",
+        "Part number ": "930420",
+        "Description": "backup led",
+        "Parts Location": "1F5",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Lights",
+        "Part number ": "930418",
+        "Description": "LAMP 3 LED - RED",
+        "Parts Location": "1F6",
+        "PARTS ON HAND": "20",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Lights",
+        "Part number ": "930416",
+        "Description": "LED AMBER",
+        "Parts Location": "1D2",
+        "PARTS ON HAND": "12",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Lights",
+        "Part number ": "830191",
+        "Description": "Lamp lavatory",
+        "Parts Location": "1F8",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "990199",
+        "Description": "Window Glass R/H",
+        "Parts Location": "9A1",
+        "PARTS ON HAND": "9",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "540079",
+        "Description": "",
+        "Parts Location": "1C5",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "990339",
+        "Description": "Glass convex  top",
+        "Parts Location": "1G1",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "2810577",
+        "Description": " Bellow Protector",
+        "Parts Location": "1G2",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "865350",
+        "Description": "KIT PNEUMATIC COMPONENTS",
+        "Parts Location": "1G8",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "780594",
+        "Description": "Reed Switch",
+        "Parts Location": "1G8",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "5001867",
+        "Description": "Stud N500 M6",
+        "Parts Location": "1H7",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "5001662",
+        "Description": "Nut hex NX500",
+        "Parts Location": "1H7",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "285724",
+        "Description": "Support central right",
+        "Parts Location": "1G7",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "289807",
+        "Description": " LOCK ,LH WITH GREASE FIT",
+        "Parts Location": "1G4",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "641985",
+        "Description": "CYLINDER 2 1/2 X 1 1/2",
+        "Parts Location": "1G5",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "901114",
+        "Description": "Door lock lavatory",
+        "Parts Location": "1G6",
+        "PARTS ON HAND": "7",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "N8902118",
+        "Description": "CLIP",
+        "Parts Location": "1H8",
+        "PARTS ON HAND": "5",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "980020",
+        "Description": "CYLINDER, PARC",
+        "Parts Location": "1H1",
+        "PARTS ON HAND": "15",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "288011",
+        "Description": "Stopper RH",
+        "Parts Location": "1H2",
+        "PARTS ON HAND": "16",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "289062",
+        "Description": "Door, handle housing",
+        "Parts Location": "9C3",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "21528785",
+        "Description": " Radiator cap",
+        "Parts Location": "1H4",
+        "PARTS ON HAND": "12",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "21148722",
+        "Description": "DEF CAP",
+        "Parts Location": "1H5",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "531424",
+        "Description": "Fuel Cap",
+        "Parts Location": "1H5",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "5000007",
+        "Description": "Valve 1 1/4 (Gate) Weld",
+        "Parts Location": "1H6",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "5001917",
+        "Description": "A 90 #16BM X #16JM",
+        "Parts Location": "1H7",
+        "PARTS ON HAND": "10",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "280169",
+        "Description": "Handle sliding door",
+        "Parts Location": "1G3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "641906",
+        "Description": " manifold 4 sol. valve",
+        "Parts Location": "1G7",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "900960",
+        "Description": "PUMP, LAVATORY FLUSH 24 VOLTS",
+        "Parts Location": "9A2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "293059",
+        "Description": "Windshield Lock",
+        "Parts Location": "9A3",
+        "PARTS ON HAND": "100",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "800378",
+        "Description": "Wiper xmodel",
+        "Parts Location": "9A4",
+        "PARTS ON HAND": "7",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "980030",
+        "Description": "GAS CYLINDER",
+        "Parts Location": "9C6",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "477294",
+        "Description": " RUBBER RAIL, FUEL PANEL",
+        "Parts Location": "9B1",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "504612",
+        "Description": "CLAMP HOSE POLY 2 BLOC SPECIAL",
+        "Parts Location": "1I6",
+        "PARTS ON HAND": "6",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "504605",
+        "Description": "Receptacle 6 MM",
+        "Parts Location": "1I7",
+        "PARTS ON HAND": "10",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "407681",
+        "Description": "GUIDE CENTRAL, ROLLER BLIND",
+        "Parts Location": "9D5",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "21183424",
+        "Description": "Radiator rubber mount",
+        "Parts Location": "1I8",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "476583",
+        "Description": "SIDE RUBBER RAIL, REAR F",
+        "Parts Location": "9B1 BH",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "O32541",
+        "Description": "Bracket",
+        "Parts Location": "1I2",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "287337",
+        "Description": " BUSHING, ENTRANCE DOOR",
+        "Parts Location": "1I1",
+        "PARTS ON HAND": "10",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "O40004",
+        "Description": "Muffler plug",
+        "Parts Location": "1i7",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "288611",
+        "Description": "Seal Chamber",
+        "Parts Location": "9C1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "288607",
+        "Description": "ROLLER",
+        "Parts Location": "1I1",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "990305",
+        "Description": "Bracket right black",
+        "Parts Location": "9B2",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "300469",
+        "Description": "Adapter right",
+        "Parts Location": "1I6",
+        "PARTS ON HAND": "7",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "507326",
+        "Description": "FLANGED BUSHING",
+        "Parts Location": "1I6",
+        "PARTS ON HAND": "10",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "300047",
+        "Description": "Rivot RH",
+        "Parts Location": "US 16B3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "990308",
+        "Description": "Arm Right Black",
+        "Parts Location": "9B4",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "300488P ",
+        "Description": "Wiper Lower Lef",
+        "Parts Location": "US 16B1 BH",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "800216",
+        "Description": " Arm Wiper",
+        "Parts Location": "9C3",
+        "PARTS ON HAND": "8",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "990307",
+        "Description": "Arm Left Black",
+        "Parts Location": "9B3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "800392",
+        "Description": "Wiper Assy 22\"",
+        "Parts Location": "9A5",
+        "PARTS ON HAND": "12",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Exterior",
+        "Part number ": "990392",
+        "Description": "Arm, Left Black",
+        "Parts Location": "9B3",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Aftertreatment",
+        "Part number ": "23635292",
+        "Description": "sensor urea quality",
+        "Parts Location": "7A2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Aftertreatment",
+        "Part number ": "21715211",
+        "Description": "COMBINED TANK UNIT",
+        "Parts Location": "7A1",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Aftertreatment",
+        "Part number ": "23251838",
+        "Description": " Def Tank Strainer",
+        "Parts Location": "7C4",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Aftertreatment",
+        "Part number ": "O40096",
+        "Description": " KIT SENSOR PRESSURE DPF",
+        "Parts Location": "7C2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Aftertreatment",
+        "Part number ": "22181342",
+        "Description": "Pressure Sensor",
+        "Parts Location": "7C3",
+        "PARTS ON HAND": "4",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Aftertreatment",
+        "Part number ": "22899626",
+        "Description": "PRESSURE SENSOR",
+        "Parts Location": "7D1 BH",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Aftertreatment",
+        "Part number ": "22391563",
+        "Description": "DOSAGE VALVE / UREA Dosing",
+        "Parts Location": "7B1",
+        "PARTS ON HAND": "3",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Aftertreatment",
+        "Part number ": "22303390",
+        "Description": "Nox Sensor Pre",
+        "Parts Location": "7D2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Aftertreatment",
+        "Part number ": "23937771",
+        "Description": "Injector",
+        "Parts Location": "7D1",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Aftertreatment",
+        "Part number ": "21407772",
+        "Description": "injector",
+        "Parts Location": "7D2 BH",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "Aftertreatment",
+        "Part number ": "24119359",
+        "Description": "Venturi",
+        "Parts Location": "7C1",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "AIR",
+        "Part number ": "N8910890 ",
+        "Description": "CARTRIDGE, FILTER hald",
+        "Parts Location": "8B2",
+        "PARTS ON HAND": "1",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "AIR",
+        "Part number ": "21440978",
+        "Description": "AIR DRYER",
+        "Parts Location": "8A1",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    },
+    {
+        "Cate": "AIR",
+        "Part number ": "642111",
+        "Description": " Air Dryer Haldex",
+        "Parts Location": "8A2",
+        "PARTS ON HAND": "2",
+        "Min": "0",
+        "Max": "2"
+    }
+]

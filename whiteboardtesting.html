@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fixed Header and Columns Table</title>
+
+  <!-- DataTables core CSS -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+
+  <!-- FixedHeader & FixedColumns CSS -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.4.0/css/fixedHeader.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/4.3.0/css/fixedColumns.dataTables.min.css">
+
+  <style>
+    /* Ensure scroll and fixed column compatibility */
+    th, td {
+      white-space: nowrap;
+    }
+
+    div.dataTables_wrapper {
+      width: 100%;
+      margin: 0 auto;
+    }
+
+    /* Optional: make the frozen columns visually distinct */
+    .dtfc-fixed-left {
+      background-color: #f8f9fc !important;
+    }
+  </style>
+</head>
+<body>
+
+  <div style="overflow-x:auto;">
+    <table id="vehiclesTable" class="display nowrap" style="width:100%">
+      <thead>
+        <tr>
+          <th>Unit #</th>
+          <th>Current Kilometers</th>
+          <th>Next Schedule 4</th>
+          <th>Bi-monthly Inspection</th>
+          <th>Semi-Annual Sticker</th>
+          <th>Next Engine Oil</th>
+          <th>Next Transmission Oil</th>
+          <th>Next Power Steering</th>
+          <th>Next Differential Oil</th>
+          <th>Next DEF Filter</th>
+          <th>Next Air Dryer</th>
+        </tr>
+      </thead>
+      <tbody id="vehiclesTableBody">
+        <!-- Dummy data rows -->
+        <tr><td>101</td><td>120000</td><td>130000</td><td>July</td><td>Oct</td><td>125000</td><td>128000</td><td>129000</td><td>126000</td><td>128500</td><td>129800</td></tr>
+        <tr><td>102</td><td>90000</td><td>95000</td><td>June</td><td>Nov</td><td>91000</td><td>94000</td><td>93000</td><td>92000</td><td>94000</td><td>94500</td></tr>
+        <!-- Add more rows as needed -->
+      </tbody>
+    </table>
+  </div>
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+  <!-- DataTables core JS -->
+  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+  <!-- FixedHeader & FixedColumns JS -->
+  <script src="https://cdn.datatables.net/fixedheader/3.4.0/js/dataTables.fixedHeader.min.js"></script>
+  <script src="https://cdn.datatables.net/fixedcolumns/4.3.0/js/dataTables.fixedColumns.min.js"></script>
+
+  <script>
+    $(document).ready(function () {
+      const table = $('#vehiclesTable').DataTable({
+        scrollX: true,
+        scrollCollapse: true,
+        paging: false, // no pagination
+        ordering: true,
+        fixedHeader: true,
+        fixedColumns: {
+          leftColumns: 2
+        }
+      });
+    });
+  </script>
+
+</body>
+</html>

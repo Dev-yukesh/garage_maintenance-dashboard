@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Start Restrict Pages using Firebase Authentication -->
+  <style>
+    html {
+      display: none;
+    }
+  </style> <!-- Hide page immediately before auth check -->
+  <script src="authguard.js" defer></script>
+  <!-- End Restrict Pages using Firebase Authentication -->
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title>Skyway Coach Lines</title>
+
+  <!-- DataTables Bootstrap CSS -->
+  <link href="https://cdn.datatables.net/1.13.4/css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+  <link href="css/custom.css" rel="stylesheet" /> <!-- Your custom styles -->
+
+  <!-- FontAwesome & Google Fonts -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400,600,700,800,900" rel="stylesheet" />
+
+  <!-- Template styles -->
+  <link href="css/sb-admin-2.min.css" rel="stylesheet" />
+  <link href="vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" />
+
+  <!-- Firebase SDKs (compat version for ease) -->
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+
+  <!-- Your Firebase config -->
+  <script src="firebase-config.js"></script>
+</head>
+
+<body id="page-top">
+  <!-- Page Wrapper -->
+  <div id="wrapper">
+    <!-- Sidebar -->
+    <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+      <!-- Sidebar - Brand -->
+      <a class="sidebar-brand d-flex align-items-center justify-content-center">
+        <div class="sidebar-brand-icon rotate-n-15">
+          <i class="fas fa-laugh-wink"></i>
+        </div>
+        <div class="sidebar-brand-text mx-3" id="userRoleDisplay">Role</div>
+      </a>
+
+      <!-- Divider -->
+      <hr class="sidebar-divider my-0" />
+
+      <!-- Nav Item - Dashboard -->
+      <li class="nav-item">
+        <a class="nav-link" href="LandingPage.html">
+          <i class="fas fa-fw fa-tachometer-alt"></i>
+          <span>Dashboard</span>
+        </a>
+      </li>
+
+      <!-- Divider -->
+      <hr class="sidebar-divider" />
+
+      <li class="nav-item active">
+        <a class="nav-link" href="allDefectsc.html">
+          <i class="fas fa-chalkboard-teacher"></i>
+          <span>All Defects</span>
+        </a>
+      </li>
+
+      <!-- Divider -->
+      <hr class="sidebar-divider" />
+
+      <li class="nav-item active">
+        <a class="nav-link" href="dayPlanner.html">
+          <i class="fas fa-file"></i>
+          <span>Day Planner</span>
+        </a>
+      </li>
+
+      <hr class="sidebar-divider" />
+
+      <li class="nav-item">
+        <a class="nav-link" href="completedRepair.html">
+          <i class="fas fa-check-circle"></i>
+          <span>Completed Repair</span>
+        </a>
+      </li>
+
+      <hr class="sidebar-divider" id="whiteboardDivider" />
+
+      <li class="nav-item active" id="whiteboardMenuItem" style="display: none;">
+        <a class="nav-link" href="whiteboard.html">
+          <i class="fas fa-chalkboard"></i>
+          <span>Whiteboard</span>
+        </a>
+      </li>
+
+      <hr class="sidebar-divider" id="partsInventroyDivider" />
+
+      <li class="nav-item active" id="partsInventoryMenuItem" style="display: none;">
+        <a class="nav-link" href="partsInventory.html">
+          <i class="fas fa-boxes"></i>
+          <span>Parts Inventory</span>
+        </a>
+      </li>
+
+      <hr class="sidebar-divider" id="userManagementDivider" />
+
+      <li class="nav-item active" id="userManagementMenuItem" style="display: none;">
+        <a class="nav-link" href="userManagement.html">
+          <i class="fas fa-users"></i>
+          <span>User Management</span>
+        </a>
+      </li>
+
+      <!-- Sidebar Toggler -->
+      <div class="text-center d-none d-md-inline">
+        <button class="rounded-circle border-0" id="sidebarToggle"></button>
+      </div>
+    </ul>
+    <!-- End of Sidebar -->
+
+    <!-- Content Wrapper -->
+    <div id="content-wrapper" class="d-flex flex-column">
+      <!-- Main Content -->
+      <div id="content">
+        <!-- Topbar -->
+        <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
+          <!-- Topbar Navbar -->
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item dropdown no-arrow">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="userDropdown"
+                role="button"
+                data-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false"
+              >
+                <span class="mr-2 d-none d-lg-inline text-gray-600 small" id="userFirstName"></span>
+                <img class="img-profile rounded-circle" src="img/undraw_profile.svg" />
+              </a>
+              <!-- Dropdown - User Information -->
+              <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">
+                  <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i> Logout
+                </a>
+              </div>
+            </li>
+          </ul>
+        </nav>
+        <!-- End of Topbar -->
+
+        <!-- Begin Page Content -->
+        <div class="container-fluid">
+          <!-- Start Defect Creation Inline Form -->
+          <h4 class="mb-3 text-primary">
+            <i class="fas fa-plus-circle"></i> Create New Defect
+          </h4>
+          <form id="defectForm">
+            <div class="form-row">
+              <div class="form-group col-md-3">
+                <label for="unitNumber">Unit #</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="unitNumber"
+                  placeholder="e.g., 1234"
+                  required
+                />
+              </div>
+              <div class="form-group col-md-5">
+                <label for="defectDescription">Maintenance / Repairs Needed</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="defectDescription"
+                  placeholder="Describe defect"
+                  required
+                />
+              </div>
+              <div class="form-group col-md-4">
+                <label for="recordedBySelect"
+                  >Recorded By <span class="text-danger">*</span></label
+                >
+                <select
+                  class="form-control"
+                  id="recordedBySelect"
+                  required
+                  onchange="handleRecordedByChange(this)"
+                >
+                  <option value="" disabled selected>Select Mechanic</option>
+                  <option value="Anojan">Anojan</option>
+                  <option value="Gobi">Gobi</option>
+                  <option value="Jayano">Jayano</option>
+                  <option value="Sanker">Sanker</option>
+                  <option value="Pirasanna">Pirasanna</option>
+                  <option value="Matt">Matt</option>
+                  <option value="Sam">Sam</option>
+                  <option value="Maurice">Maurice</option>
+                  <option value="Amin">Amin</option>
+                  <option value="Ronald">Ronald</option>
+                  <option value="yukesh">yukesh</option>
+                  <option value="Other">Other</option>
+                </select>
+
+                <input
+                  type="text"
+                  class="form-control mt-2"
+                  id="recordedByInput"
+                  placeholder="Enter mechanic name"
+                  style="display: none"
+                />
+              </div>
+            </div>
+
+            <div class="form-row">
+              <div class="form-group col-md-3">
+                <label for="recordedDate">Recorded Date</label>
+                <input type="date" class="form-control" id="recordedDate" required />
+              </div>
+              <div class="form-group col-md-3">
+                <label for="estimatedTime">Estimated Time (Hours)</label>
+                <input
+                  type="number"
+                  class="form-control"
+                  id="estimatedTime"
+                  min="0"
+                  step="1"
+                  placeholder="e.g., 2.5"
+                />
+              </div>
+              <div class="form-group col-md-3 align-self-end d-flex gap-2">
+                <button type="submit" class="btn btn-success flex-fill">
+                  <i class="fas fa-save"></i> Submit
+                </button>&nbsp;&nbsp;
+                <button type="button" class="btn btn-secondary flex-fill" id="resetEditBtn">
+                  <i class="fas fa-undo"></i> Reset
+                </button>
+              </div>
+            </div>
+          </form>
+
+          <div class="mb-3">
+            <button id="editCheckedBtn" class="btn btn-secondary">Edit Checked</button>
+            <button id="saveCheckedBtn" class="btn btn-success">Save Checked</button>
+            <button id="sendToDayPlannerBtn" class="btn btn-primary">Send to Day Planner</button>
+          </div>
+          <!-- End Defect Creation Inline Form -->
+
+          <!-- DataTables Example -->
+          <div class="card shadow mb-4">
+            <div class="card-body">
+              <div class="table-responsive">
+                <table
+                  class="table table-bordered"
+                  id="dataTable"
+                  width="100%"
+                  cellspacing="0"
+                >
+                  <thead>
+                    <tr>
+                      <th>Unit #</th>
+                      <th>Maintenance / Repairs Needed</th>
+                      <th>Date Reported</th>
+                      <th>Recorded By</th>
+                      <th>Estimate</th>
+                      <th>Mechanic</th>
+                      <th>Repair Date</th>
+                      <th>Status</th>
+                      <th id="hideColumn">Select</th>
+                      <th>Motive Record ID</th>
+                      <th>Motive Defect ID</th>
+                      <th>Defect ID</th>
+                      <th>Defect Status</th>
+                      <th>Defect Trigger</th>
+                      <th>Action</th>
+                    </tr>
+                  </thead>
+                  <tbody id="defect-table-body">
+                    <!-- JS dynamically inserts rows here -->
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+          <!-- End DataTables Example -->
+        </div>
+        <!-- /.container-fluid -->
+      </div>
+      <!-- End of Main Page Content -->
+
+      <!-- Footer -->
+      <footer class="sticky-footer bg-white">
+        <div class="container my-auto">
+          <div class="copyright text-center my-auto">
+            <span>Copyright &copy; Skyway Coachlines 2025</span>
+          </div>
+        </div>
+      </footer>
+      <!-- End Footer -->
+    </div>
+    <!-- End of Content Wrapper -->
+  </div>
+  <!-- End of Page Wrapper -->
+
+  <!-- Scroll to Top Button -->
+  <a class="scroll-to-top rounded" href="#page-top">
+    <i class="fas fa-angle-up"></i>
+  </a>
+
+  <!-- Logout Modal -->
+  <div
+    class="modal fade"
+    id="logoutModal"
+    tabindex="-1"
+    role="dialog"
+    aria-labelledby="exampleModalLabel"
+    aria-hidden="true"
+  >
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+          <button
+            class="close"
+            type="button"
+            data-dismiss="modal"
+            aria-label="Close"
+          >
+            <span aria-hidden="true">×</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          Select "Logout" below if you are ready to end your current session.
+        </div>
+        <div class="modal-footer">
+          <button class="btn btn-secondary" type="button" data-dismiss="modal">
+            Cancel
+          </button>
+          <a class="btn btn-primary" href="index.html">Logout</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+
+  <!-- jQuery first, then Bootstrap JS -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- jQuery Easing -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- DataTables JS -->
+  <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.4/js/dataTables.bootstrap4.min.js"></script>
+
+  <!-- Custom scripts for all pages -->
+  <script src="js/sb-admin-2.min.js"></script>
+
+  <!-- Page level custom scripts -->
+  <script src="js/demo/datatables-demo.js"></script>
+
+  <!-- SweetAlert2 -->
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+  <!-- Your API Config and Logic -->
+  <script src="apiConfig.js"></script>
+  <script src="allDefectsc.js"></script>
+</body>
+
+</html>

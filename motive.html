@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Motive Inspection Reports</title>
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap4.min.css"
+  />
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap4.min.js"></script>
+
+  <style>
+    /* Allow multiline text inside table cells with wrapping */
+    td {
+      white-space: pre-wrap; /* preserve line breaks and wrap */
+      vertical-align: top;
+    }
+  </style>
+</head>
+<body class="bg-light">
+  <div class="container mt-5">
+    <h2 class="text-primary mb-4">Motive Inspection Reports</h2>
+    <table
+      id="motiveReportsTable"
+      class="table table-striped table-bordered"
+      style="width: 100%"
+    >
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Log ID</th>
+          <th>Date</th>
+          <th>Time</th>
+          <th>Vehicle No.</th>
+          <th>Odometer</th>
+          <th>Carrier Name</th>
+          <th>Location</th>
+          <th>Status</th>
+          <th>Inspection Type</th>
+          <th>Driver Signed At</th>
+          <th>Mechanic Signed At</th>
+          <th>Reviewer Signed At</th>
+          <th>Duration (min)</th>
+          <th>Declaration</th>
+          <th>Defects Details</th> <!-- Added column -->
+          <th>Vehicle Details</th> <!-- Added column -->
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Data will be populated by DataTables -->
+      </tbody>
+    </table>
+  </div>
+  <script src="motive.js"></script>
+</body>
+</html>
